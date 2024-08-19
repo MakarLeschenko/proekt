@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Стоматологическая клиника в Алматы </title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/media.css">
+</head>
+<body>
+<a name="#back"></a>
+ <div class="content">
+   <div class="contain">
+    <div class="fon">
+        <div class="top">
+            <div class="menu">
+                <div class="hamburger-menu">
+                    <input id="menu__toggle" type="checkbox" />
+                    <label class="menu__btn" for="menu__toggle" id="push">
+                      <span></span>
+                    </label>
+                    <ul class="menu__box">
+                        <div class="menu_bgc">
+                        <div class="menu_bgc2">
+                            <div class="menu_spisok">
+                            <li><a class="menu__item" href="#">Главная</a></li>
+                            <li><a class="menu__item" href="uslugi.html">Услуги</a></li>
+                            <li><a class="menu__item" href="#">Команда</a></li>
+                            <li><a class="menu__item" href="#">Отзывы</a></li>
+                            <li><a class="menu__item" href="#">Контакты</a></li>
+                        </div>
+                        </div>
+                    </div>
+                    </ul>
+                    <p class="textmenu" id="push2">МЕНЮ</p>
+                  </div>
+        </div>
+        <img src="img/Page 1.gif" alt="" class="logo">
+        <div class="langblock"><p class="language"> <img src="img/Chevron down.png" alt="" class="imglang">RUS</p>
+        </div>
+        </div>
+        <div class="caption">
+            <h2 class="title">СТОМАТОЛОГИЧЕСКАЯ КЛИНИКА <br>В АЛМАТЫ</h2>
+            <button class="btn"><p class="btntext">ЗАПИСАТЬСЯ НА ПРИЕМ</p></button>
+        </div>
+    </div>
+   </div>
+   <div class="block2">
+    <div class="captionblock2"><h2 class="titleblock2">КЛИНИКА <br>DENTAL CLUB</h2>
+    <p class="textblock2">Первая клиника в Казахстане, предоставляющая <br>
+        полный спектр стоматологических услуг на европейском уровне. <br>
+        Мы используем передовое оборудование и digital технологии.</p>
+</div>
+<button class="btnblock2"><p class="btntextblock2">ЗАПИСАТЬСЯ НА ПРИЕМ</p></button>
+<div class="img_top_block2"><img src="/img_block2/Stomatology (2).png" alt="" class="img2block2">
+    <img src="/img_block2/Stomatology Figma Screenshot.png" alt="" class="img1block1">
+</div>
+<div class="caption2block2"><h2 class="title2block2">НАШИ <br>ПРЕИМУЩЕСТВА</h2>
+    <p class="text2block2">Оборудование и материалы от ведущих мировых брендов. <br>
+        Профессионалы, владеющие самыми современными методиками и <br>способные в минимальные сроки решить задачи любой сложности. <br>
+        Надежность и гарантии. <br>
+        Абсолютная уверенность в результатах лечения.  <br>
+        Индивидуальный подход и экономия времени пациента. <br>
+        Безупречный сервис и интерьер, в котором приятно находиться.</p>
+</div>
+<button class="btn2block2"><p class="btnt2extblock2">ЗАПИСАТЬСЯ НА ПРИЕМ</p></button>
+<div class="img_bottom_block2"><img src="/img_block2/Stomatology (3).png" alt="" class="img1_bottom">
+    <img src="/img_block2/Stomatology Figma Screenshot (1).png" alt="" class="img2_bottom">
+</div>
+   </div>
+</div>
+<script>
+var knopka = document.getElementById ('push');
+knopka.addEventListener('click',func1);
+ 
+function func1() {
+  var shadow = document.getElementById ('push2');
+  if (shadow.style.display !== 'none'){
+   shadow.style.display="none";
+  }else{
+   shadow.style.display="block";
+  }
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+@media(max-width:1380px){
+    .contain_diag{
+        background-position: center;
+    }
+}
+@font-face{
+    font-family: 'rawline';
+    src: url(/fonts/Rawline\ 100.ttf);
+}

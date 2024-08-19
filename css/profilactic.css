@@ -1,0 +1,72 @@
+.profilactic_uslugi{
+    display: flex;
+    background-image: url(/uslugi_img/iLoveIMG\ download\ \(kar\).jpeg);
+    background-repeat: no-repeat;
+    width: 1440px;
+    height: 900px;
+    margin-left: 237px;
+}
+.prof{
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin-left: 98px;
+    bottom: 80px;
+    margin-right: 99px;
+}
+.titleprofilactic{
+    display: flex;
+    position: relative;
+    width: 658px;
+    height: 67px;
+    font-size: 48px;
+    line-height: 67.2px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1);
+    margin-bottom: 24px;
+
+
+}
+.btnprof{
+    width: 223px;
+    height: 50px;
+    border-radius: 41px;
+    border: #ffffff;
+
+}
+.textprof{
+    font-size: 16px;
+    line-height: 22.4px;
+    color: rgba(13, 13, 13, 1);
+
+}
+.menu_prof{
+    margin-left: -237px;
+    margin-right: 0px;
+    width: 585px;
+}
+.prof_men1{
+    width:585px;height:900px;background:linear-gradient(93.85deg,rgba(47,53,59,1)9.37%,#A9A9A9);position:relative;padding-top:183px  
+}
+.prof_men2{
+    width: 113px;height: 328px;margin-right: 120px;
+}
+#terapia:hover{
+   color:  rgba(245, 208, 156, 1);
+}
+#protez:hover{
+    color:  rgba(245, 208, 156, 1);
+ }
+ #_implant_:hover{
+    color:  rgba(245, 208, 156, 1);
+ }
+ #_complex_:hover{
+    color:  rgba(245, 208, 156, 1);
+ }
+ #_ort_:hover{
+    color:  rgba(245, 208, 156, 1);
+ }
+ #vinir:hover{
+    color:  rgba(245, 208, 156, 1);
+ }

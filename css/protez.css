@@ -1,0 +1,291 @@
+*{
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+.content_uslugi{
+    width: 1440px;
+}
+.contain_protez{
+    display: flex;
+    background-image: url(/uslugi_img/protez.jpeg);
+    background-repeat: no-repeat;
+    width: 1440px;
+    height: 900px;
+    margin-left: 524px;
+}
+.menu_protez{
+    display: flex;
+    justify-content: space-between;
+    margin-left: -524px;
+    width: 585px ;
+    margin-right: 0px;
+}
+.uslugi_box {
+    background-origin: padding-box;
+    display: flex;
+    position: relative;
+    top: -80px;
+    left: 0px;
+    height: 900px;
+    margin: 0;
+    padding: 80px 0;
+    list-style: none;
+  }
+  .uslugi_item {
+    display: block;
+    padding-bottom: 32px;
+    width: 339px;
+    color: #ffffff;
+    text-align: right;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin-left: -200px;
+  
+    text-decoration: none;
+  }
+  #uslugi{
+    padding-bottom: 80px;
+    margin-left: -250px;
+  }
+.uslugiimg{
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+.uslugi_svg {
+    width: 24px;
+}
+.back{
+    display: flex;
+    position: relative;
+    width: 44px;
+    height: 44px;
+    left: 0px;
+    bottom: 10px;
+}
+#diagnostic:hover{
+    color: rgba(245, 208, 156, 1);
+}
+.langblock{
+    margin-top: 38px;
+    margin-bottom: 38px;
+    margin-right: 156px;
+
+}
+.caption{
+    width: 1027px;
+    height: 267px;
+    text-align: center;
+    margin-top: 216px;
+}
+.title{
+    color: aliceblue;
+    font-size: 60px;
+    width: 1027px;
+    height: 167px;
+    line-height: 84px;
+    font-weight: 300;
+    
+}
+.btn{
+    width: 317px;
+    height: 57px;
+    border-radius: 41px;
+    color: rgba(119, 124, 136, 1);
+    border: 0;
+    margin-top: 42px;
+
+    
+}
+.btntext{
+    width: 225px;
+    height: 25px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25.2px;
+}
+.block2{
+    height: 2695px;
+    background-color: rgba(47, 53, 59, 1);
+}
+.btnblock2{
+    width: 317px;
+    height: 57px;
+    border-radius: 41px;
+    background-color: rgba(47, 53, 59, 1);
+    color: rgba(255, 255, 255, 1);
+    margin-left: 605px;
+    margin-right: 518px;
+    margin-top: 24px;
+    outline: #ffffff 1px solid
+}
+.btntextblock2{
+    width: 225px;
+    height: 25px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25.2px;
+}
+.captionblock2{
+    display: flex;
+    justify-content: space-around;
+}
+.textblock2{
+    width: 679px;
+    height: 112px;
+    text-align: left;
+    margin-top: 126px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    margin-right: 156px;
+    margin-left: 149px;
+    color: #ffffff;
+}
+.titleblock2{
+    width: 300px;
+    height: 96px;
+    margin-top: 126px;
+    margin-left: 156px;
+    margin-right: 0px;
+    font-size: 40px;
+    color: aliceblue;
+}
+.img_top_block2{
+    display: flex;
+    margin-top: 100px;
+}
+.img1block1{
+    display: flex;
+    margin-right: 0px;
+    height: 653px;
+}
+.img2block2{
+    display: flex;
+    margin-left: 0px;
+    margin-top: 299px;
+}
+.caption2block2{
+    display: flex;
+    justify-content: space-around;
+}
+.title2block2{
+    width: 404px;
+    height: 96px;
+    margin-top: 126px;
+    margin-left: 156px;
+    margin-right: 0px;
+    font-size: 40px;
+    color: aliceblue;
+}
+.text2block2{
+    width: 664px;
+    height: 236px;
+    text-align: start;
+    margin-top: 126px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    margin-right: 156px;
+    margin-left: 60px;
+    color: #ffffff;
+}
+.btn2block2{
+    width: 317px;
+    height: 57px;
+    border-radius: 41px;
+    background-color: rgba(47, 53, 59, 1);
+    color: rgba(255, 255, 255, 1);
+    margin-left: 620px;
+    margin-right: 518px;
+    margin-top: 24px;
+    outline: #ffffff 1px solid
+}
+.btn2textblock2{
+    width: 225px;
+    height: 25px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25.2px;
+}
+.img_bottom_block2{
+display: flex;
+align-items: flex-end;
+}
+.img1_bottom{
+display: flex;
+margin-left: 0px;
+margin-bottom: 277px;
+margin-top: 100px;
+}
+.img2_bottom{
+    display: flex;
+    width: 556px;
+    height: 489px;
+    margin-right: 0px;
+    margin-top: 334px;
+    margin-bottom: 126px;
+
+}
+#profilactic:hover{
+    color: rgba(245, 208, 156, 1);
+}
+#terapia:hover{
+    color:  rgba(245, 208, 156, 1);
+ }
+ #protez:hover{
+    color:  rgba(245, 208, 156, 1);
+ }
+ .protez_{
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin-left: 98px;
+    bottom: 80px;
+    margin-right: 99px;
+}
+ .titleprotez{
+    display: flex;
+    position: relative;
+    width: 758px;
+    height: 67px;
+    font-size: 48px;
+    line-height: 67.2px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1);
+    margin-bottom: 24px;
+
+ }
+
+
+.btnprof{
+    width: 223px;
+    height: 50px;
+    border-radius: 41px;
+    border: #ffffff;
+
+}
+.textprotez{
+    font-size: 16px;
+    line-height: 22.4px;
+    color: rgba(13, 13, 13, 1);
+}
+#_implant_:hover{
+    color:  rgba(245, 208, 156, 1);
+ }
+ #_complex_:hover{
+    color:  rgba(245, 208, 156, 1);
+ }
+ #_ort_:hover{
+    color:  rgba(245, 208, 156, 1);
+ }
+ #vinir:hover{
+    color:  rgba(245, 208, 156, 1);
+ }
+ .prot_men1{
+    width:585px;height:900px;background:linear-gradient(93.85deg,rgba(47,53,59,1)9.37%,#A9A9A9);position:relative;padding-top:183px 
+ }
+ .prot_men2{
+    width: 113px;height: 328px;margin-right: 120px;
+ }
