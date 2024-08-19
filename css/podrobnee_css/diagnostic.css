@@ -8,7 +8,7 @@
     width: 1440px;
 }
 .contain_diag{
-    background-image: url(/podrobnee_img/diagnostic.jpeg);
+    background-image: url(../podrobnee_img/diagnostic.jpeg);
     position: relative;
     display: flex;
     width: 1440px;

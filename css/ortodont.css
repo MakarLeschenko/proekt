@@ -7,7 +7,7 @@
 }
 .contain_ort{
     display: flex;
-    background-image: url(/uslugi_img/ortod.jpeg);
+    background-image: url(../uslugi_img/ortod.jpeg);
     margin-left: 520px;
     background-repeat: no-repeat;
     width: 1440px;

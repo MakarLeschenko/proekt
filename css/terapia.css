@@ -7,7 +7,7 @@
 }
 .contain_terap{
     display: flex;
-    background-image: url(/uslugi_img/File\ 23333.jpeg);
+    background-image: url(../uslugi_img/File\ 23333.jpeg);
     background-repeat: no-repeat;
     width: 1440px;
     height: 900px;

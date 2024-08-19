@@ -209,7 +209,7 @@
 }
 
 .menu__box {
-  background: url(/menu_img/iLoveIMG\ download\ \(1\).jpeg);
+  background: url(../menu_img/iLoveIMG\ download\ \(1\).jpeg);
   background-origin: padding-box;
   display: block;
   position: fixed;

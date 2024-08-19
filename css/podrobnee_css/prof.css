@@ -7,7 +7,7 @@
     width: 1440px;
 }
 .contain{
-    background-image: url(/podrobnee_img/prof.img/iLoveIMG\ download\ \(2\).jpeg);
+    background-image: url(../podrobnee_img/prof.img/iLoveIMG\ download\ \(2\).jpeg);
     position: relative;
     display: flex;
     width: 1440px;
@@ -203,7 +203,7 @@
 }
 
 .menu__box {
-  background: url(/menu_img/iLoveIMG\ download\ \(1\).jpeg);
+  background: url(../menu_img/iLoveIMG\ download\ \(1\).jpeg);
   background-origin: padding-box;
   display: block;
   position: fixed;
