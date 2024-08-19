@@ -110,7 +110,9 @@
     color: rgba(255, 255, 255, 1);
     margin-left: 662px;
     margin-top: 198px;
-    outline: #ffffff 1px solid
+    outline: #ffffff 1px solid;
+    margin-top: 300px;
+    
 }
 .btntextblock2{
     width: 225px;
